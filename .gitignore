@@ -1,0 +1,8 @@
+logs
+build
+pids
+
+*.log
+*.csv
+
+node_modules

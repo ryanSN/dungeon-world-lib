@@ -1,0 +1,8 @@
+{
+  "name": "dungeon-world-lib",
+  "version": "1.0.0",
+  "description": "Dungeon World RPG Library",
+  "main": "index.js",
+  "author": "Ryan Chatterton",
+  "license": "MIT"
+}
